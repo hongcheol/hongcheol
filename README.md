@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcheol)](https://github.com/hongcheol/github-readme-stats)<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hongcheol)](https://velog.io/@hongcheol)<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hongcheol)](https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hongcheol)](https://velog-readme-stats.vercel.app/api/redirect?name=hongcheol)
